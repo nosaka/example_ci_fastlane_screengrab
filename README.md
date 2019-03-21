@@ -1,0 +1,1 @@
+# example_ci_fastlane_screengrab
